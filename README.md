@@ -13,6 +13,16 @@ Timely delivery is crucial as it ensures that the product is competitive in the 
 7. Regular progress tracking and monitoring: Using Key Performence Indicators and real-time tracking tools to ensure expectations are met and delays addressed.
    
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Effective cost control to ihelps in dentifying potential cost overruns early, minimizing unnecessary expenses, and maximizing resource utilization efficiency. By implementing them, project managers can make informed decisions, optimize resource allocation, and mitigate financial risks associated with project execution.
+### Stategies to prevent budget overruns
+* Accurate estimation and planning during the project initiation phase
+* Keep to Planned Scope
+* Effective communication and stakeholder involvement
+* Continuous monitoring and control processes
+* Using a Project Planning Tool
+* Reassigning Resources
+* Making a Work Breakdown Structure
+* Establishing a Change Management Process
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ### The advantages of waterfall
