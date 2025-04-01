@@ -48,9 +48,23 @@ Waterfall is particularly useful for large, complex projects with very specific 
 * Construction projects
 * Healthcare
 * Manufacturing
-## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards? n
-## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards? 
+### Methods
+* Defect prevention
+* Continous improvement
+* Stakeholder involvement
+* Risk-based approach
+### Why it is important 
+High quality standards results in a software that is more reliable, efficient, and user-friendly.
+
+## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful? 
+### project scope
+A well-defined project scope results in efficient management of project time, money, and resources.This is because it helps teams to stay focused to complete projects on time and within budget.
+### Work Breakdown Structure
+Work Breakdown Structure (WBS) is the tool that helps in breaking work into smaller tasks to make the work more manageable and approachable. 
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
