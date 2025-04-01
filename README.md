@@ -64,9 +64,13 @@ A well-defined project scope results in efficient management of project time, mo
 Work Breakdown Structure (WBS) is the tool that helps in breaking work into smaller tasks to make the work more manageable and approachable. 
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+A project schedule gives a detailed to-do list for your project, outlining all the tasks, when they need to be done, and who is responsible for them. A Gantt chart is a project management chart that allows project managers to create a project schedule that shows the order in which project tasks will be completed as well as their due duration, and other details.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+This question is key when designing value proposition for your software as it aims at achieving product-market fit because it communicates the unique benefits and value that your product or service offers to your target customers. 
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
