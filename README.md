@@ -1,6 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9pw6JKcu)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18924472&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
+
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 Timely delivery is crucial as it ensures that the product is competitive in the market as it meets the customer satisfaction and thus adds customer base and retains its customers. It also gives competitve advantage in a fast moving industry where being the first to launch a product or service affects the market share the company will gain. Additionally, timely delivery avoids financial strain as it ensures the project is finished within the set budget. It also leads to team productivity in the end as the development team gain a sence of accomplishment and confidence.
 ### How Project Managers ensure deadlines are met.
@@ -12,6 +13,7 @@ Timely delivery is crucial as it ensures that the product is competitive in the 
 7. Regular progress tracking and monitoring: Using Key Performence Indicators and real-time tracking tools to ensure expectations are met and delays addressed.
    
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ### The advantages of waterfall
 * Requires less coordination due to clearly defined phases sequential processes
@@ -70,8 +72,25 @@ A project schedule gives a detailed to-do list for your project, outlining all t
 This question is key when designing value proposition for your software as it aims at achieving product-market fit because it communicates the unique benefits and value that your product or service offers to your target customers. 
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
-
+well  defined problem will help in developing a software solution that understands or compliant to three things;
+1. Problem-Solution fit: It addresses customer jobs, pains, and gains.
+2. Product-Market fit: It creates real value for customers.
+3. Business Model fit: It can result in a profitable and scalable business.
+   
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+Start by explaining the core issue your software aims to address using clear, concise language to ensure your audience understands the significance of the problem. Give real-world examples or statistics to illustrate the problem's impact such as market data, user pain points, or industry reports. Highlight the pain points faced by your target audience while showing how they connect to the broader problem you want to solve.
+To capture the audience you could also introduce visuals to showcase the problem visually.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+* Reliability
+* Portability
+* Efficiency
+* Maintainability
+* Usability
+  
 ## 12. What data is available regarding the market size and growth potential for your software?
+According to statistica.com the Software market in Africa is expected to experience significant growth with revenue expected o reach US$8.98bn by 2025. Among the various segments within the Software market, Enterprise Software is expected to dominate with a projected market volume of US$3.89bn in 2025. This indicates the strong demand for software solutions in the African business landscape.
+It is anticipated that the software market will experience steady annual growth rate of 6.57% from 2025 to 2029 (CAGR 2025-2029).This will result to a market volume of US$11.58bn by 2029. Thus, thereis much potential for further expansion and development in the software industry within Africa. In terms of global comparison, United States is expected to generate the highest revenue in the Software market, reaching US$379.29bn in 2025.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+It helps in understanding consumer behavior and identifying market opportunities for growth, assess market viability for new products or services, and develop effective marketing strategies.
